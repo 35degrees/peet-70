@@ -13,7 +13,7 @@
 <div class="gallery grid sm:gap-2 md:gap-3 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-4 sm:mt-2 md:mt-4 grid-flow-row relative">
 
   <div class="party-img party-img-1 col-span-2 row-span-2" onclick={() => handleClick(1)}>
-    <img src="https://raw.githubusercontent.com/35degrees/hhp-70/refs/heads/main/static/images/1.jpeg" alt="">
+    <img src="https://raw.githubusercontent.com/35degrees/peet-70/refs/heads/main/src/lib/images/1.png" alt="">
   </div>
   <div class="party-img party-img-2" onclick={() => handleClick(2)}>
     <img src="https://raw.githubusercontent.com/35degrees/hhp-70/refs/heads/main/static/images/2.jpeg" alt="">
