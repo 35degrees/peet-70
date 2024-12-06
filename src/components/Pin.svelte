@@ -42,7 +42,7 @@
     justify-content: center;
     align-items: center;
     font-size: 8rem;
-    font-weight: 800%;
+   
 
 
   }
