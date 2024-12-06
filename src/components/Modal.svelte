@@ -44,7 +44,7 @@ class="modal fixed flex flex-row justify-between">
   in:fly={{x: indexArr === 1 ? -400 : 400 , y: slideArr.length === 0 ? -400: 0, duration: 280, delay: 180}}
   out:fly={{x: indexArr === -1 ? -450 : 450, duration: 280}}
   class="modal-img max-w-50 md:w-[640px] sm:w-[350px] lg:w-[1050px]">
-    <img src={`https://raw.githubusercontent.com/35degrees/hhp-70/refs/heads/main/static/images/${slide}.jpeg`} alt="">
+    <img src={`https://raw.githubusercontent.com/35degrees/peet-70/refs/heads/main/src/lib/images/${slide}.png`} alt="">
   </div>
   {/key}
 
