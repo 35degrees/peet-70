@@ -21,7 +21,7 @@
 
 <style>
   .bg-image {
-    background: url('./src/lib/images/mainbeeg.png') center center/cover
+    background: url('https://github.com/35degrees/peet-70/blob/main/src/lib/images/mainbeeg.png?raw=true') center center/cover
     no-repeat;
   height: 100vh;
   width: 100vw;
